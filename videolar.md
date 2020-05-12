@@ -2,24 +2,26 @@ Kodluyoruz Bootcamp in Video Icerigi
 
 <!-- vim-markdown-toc GFM -->
 
--   [1.Hafta_4-5 Nisan 2020](#1hafta_4-5-nisan-2020)
-    -   [4 Nisan 2020](#4-nisan-2020)
-    -   [5 Nisan 2020](#5-nisan-2020)
--   [2.Hafta_11-12 Nisan 2020](#2hafta_11-12-nisan-2020)
--   [3.Hafta_18-19 Nisan 2020](#3hafta_18-19-nisan-2020)
--   [4.Hafta_25-26 Nisan 2020](#4hafta_25-26-nisan-2020)
-    -   [25 Nisan 2020](#25-nisan-2020)
-    -   [26 Nisan 2020](#26-nisan-2020)
--   [5.Hafta_2-3 Mayıs 2020](#5hafta_2-3-mays-2020)
-    -   [Erhan attigi videolar](#erhan-attigi-videolar)
-        -   [Redux-Thunk](#redux-thunk)
-        -   [styled-components](#styled-components)
-        -   [codesandbox](#codesandbox)
-        -   [dogs-ödev](#dogs-ödev)
-        -   [formik](#formik)
-        -   [todo-ödev](#todo-ödev)
--   [6.Hafta_9-10 Mayıs 2020](#6hafta_9-10-mays-2020)
--   [7.Hafta_16-17 Mayıs 2020](#7hafta_16-17-mays-2020)
+* [1.Hafta_4-5 Nisan 2020](#1hafta_4-5-nisan-2020)
+    * [4 Nisan 2020](#4-nisan-2020)
+    * [5 Nisan 2020](#5-nisan-2020)
+* [2.Hafta_11-12 Nisan 2020](#2hafta_11-12-nisan-2020)
+* [3.Hafta_18-19 Nisan 2020](#3hafta_18-19-nisan-2020)
+* [4.Hafta_25-26 Nisan 2020](#4hafta_25-26-nisan-2020)
+    * [25 Nisan 2020](#25-nisan-2020)
+    * [26 Nisan 2020](#26-nisan-2020)
+* [5.Hafta_2-3 Mayıs 2020](#5hafta_2-3-mays-2020)
+    * [Erhan attigi videolar](#erhan-attigi-videolar)
+        * [Redux-Thunk](#redux-thunk)
+        * [styled-components](#styled-components)
+        * [codesandbox](#codesandbox)
+        * [dogs-ödev](#dogs-ödev)
+        * [formik](#formik)
+        * [todo-ödev](#todo-ödev)
+* [6.Hafta_9-10 Mayıs 2020](#6hafta_9-10-mays-2020)
+    * [1](#1)
+    * [2](#2)
+* [7.Hafta_16-17 Mayıs 2020](#7hafta_16-17-mays-2020)
 
 <!-- vim-markdown-toc -->
 
@@ -116,6 +118,24 @@ Acilmadi.
 
 ### styled-components
 
+1
+
+-   intro
+
+2
+
+-   inline style yerine classname kutuphanesi
+-   sass little bits
+
+3
+
+-   css in js, styled components
+-   projelerde genellikle style kullaniyorum.
+
+4
+
+-   sonuc
+
 ### codesandbox
 
 ### dogs-ödev
@@ -125,5 +145,87 @@ Acilmadi.
 ### todo-ödev
 
 # 6.Hafta_9-10 Mayıs 2020
+
+## 1
+
+1.mp4
+
+2.mp4
+
+3.mp4
+
+4.mp4
+
+5.mp4
+
+6.mp4
+
+7.mp4
+
+8.mp4
+
+9.mp4
+
+10.mp4
+
+11.mp4
+
+12.mp4
+
+13.mp4
+
+14.mp4
+
+15.mp4
+
+16.mp4
+
+17.mp4
+
+18.mp4
+
+19.mp4
+
+20.mp4
+
+## 2
+
+1.mp4
+
+2.mp4
+
+3.mp4
+
+4.mp4
+
+5.mp4
+
+6.mp4
+
+7.mp4
+
+8.mp4
+
+9.mp4
+
+10.mp4
+
+11.mp4
+
+12.mp4
+
+13.mp4
+
+14.mp4
+
+15.mp4
+
+dog.mp4
+
+dog2.mp4
+
+dogtype.mp4
+
+formik.mp4
 
 # 7.Hafta_16-17 Mayıs 2020
