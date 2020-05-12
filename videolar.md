@@ -2,26 +2,28 @@ Kodluyoruz Bootcamp in Video Icerigi
 
 <!-- vim-markdown-toc GFM -->
 
-* [1.Hafta_4-5 Nisan 2020](#1hafta_4-5-nisan-2020)
-    * [4 Nisan 2020](#4-nisan-2020)
-    * [5 Nisan 2020](#5-nisan-2020)
-* [2.Hafta_11-12 Nisan 2020](#2hafta_11-12-nisan-2020)
-* [3.Hafta_18-19 Nisan 2020](#3hafta_18-19-nisan-2020)
-* [4.Hafta_25-26 Nisan 2020](#4hafta_25-26-nisan-2020)
-    * [25 Nisan 2020](#25-nisan-2020)
-    * [26 Nisan 2020](#26-nisan-2020)
-* [5.Hafta_2-3 Mayıs 2020](#5hafta_2-3-mays-2020)
-    * [Erhan attigi videolar](#erhan-attigi-videolar)
-        * [Redux-Thunk](#redux-thunk)
-        * [styled-components](#styled-components)
-        * [codesandbox](#codesandbox)
-        * [dogs-ödev](#dogs-ödev)
-        * [formik](#formik)
-        * [todo-ödev](#todo-ödev)
-* [6.Hafta_9-10 Mayıs 2020](#6hafta_9-10-mays-2020)
-    * [1](#1)
-    * [2](#2)
-* [7.Hafta_16-17 Mayıs 2020](#7hafta_16-17-mays-2020)
+-   [1.Hafta_4-5 Nisan 2020](#1hafta_4-5-nisan-2020)
+    -   [4 Nisan 2020](#4-nisan-2020)
+    -   [5 Nisan 2020](#5-nisan-2020)
+-   [2.Hafta_11-12 Nisan 2020](#2hafta_11-12-nisan-2020)
+-   [3.Hafta_18-19 Nisan 2020](#3hafta_18-19-nisan-2020)
+-   [4.Hafta_25-26 Nisan 2020](#4hafta_25-26-nisan-2020)
+    -   [25 Nisan 2020](#25-nisan-2020)
+    -   [26 Nisan 2020](#26-nisan-2020)
+-   [5.Hafta_2-3 Mayıs 2020](#5hafta_2-3-mays-2020)
+    -   [Erhan attigi videolar](#erhan-attigi-videolar)
+        -   [Redux-Thunk](#redux-thunk)
+        -   [styled-components](#styled-components)
+        -   [codesandbox](#codesandbox)
+        -   [dogs-ödev](#dogs-ödev)
+        -   [formik](#formik)
+            -   [before](#before)
+            -   [after](#after)
+        -   [todo-ödev](#todo-ödev)
+-   [6.Hafta_9-10 Mayıs 2020](#6hafta_9-10-mays-2020)
+    -   [1](#1)
+    -   [2](#2)
+-   [7.Hafta_16-17 Mayıs 2020](#7hafta_16-17-mays-2020)
 
 <!-- vim-markdown-toc -->
 
@@ -136,13 +138,45 @@ Acilmadi.
 
 -   sonuc
 
-### codesandbox
-
 ### dogs-ödev
+
+### todo-ödev
 
 ### formik
 
-### todo-ödev
+#### before
+
+1
+
+-   addtodo ya yeni ozellikler ekliyoruz. (title, desc , completed, priorty gibi)
+-   style kismi yapildi.
+
+2 & 3
+
+-   Debugger kullandik, @2 6:22
+
+#### after
+
+1
+
+-   neden formik
+-   kutuphaneyi ekleme
+
+2
+3
+
+4
+
+-   yup validation
+-   (bundan sonra high order component var)
+
+### codesandbox
+
+1 & 2
+
+-   props.child nasil calisir.
+-   Link to nasil calisir.
+-   KirmiziText ve KisaltilmisText(Devami ... vb )
 
 # 6.Hafta_9-10 Mayıs 2020
 
