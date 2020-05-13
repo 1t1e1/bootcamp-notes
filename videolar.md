@@ -2,28 +2,28 @@ Kodluyoruz Bootcamp in Video Icerigi
 
 <!-- vim-markdown-toc GFM -->
 
-* [1.Hafta_4-5 Nisan 2020](#1hafta_4-5-nisan-2020)
-    * [4 Nisan 2020](#4-nisan-2020)
-    * [5 Nisan 2020](#5-nisan-2020)
-* [2.Hafta_11-12 Nisan 2020](#2hafta_11-12-nisan-2020)
-* [3.Hafta_18-19 Nisan 2020](#3hafta_18-19-nisan-2020)
-* [4.Hafta_25-26 Nisan 2020](#4hafta_25-26-nisan-2020)
-    * [25 Nisan 2020](#25-nisan-2020)
-    * [26 Nisan 2020](#26-nisan-2020)
-* [5.Hafta_2-3 Mayıs 2020](#5hafta_2-3-mays-2020)
-    * [Erhan attigi videolar](#erhan-attigi-videolar)
-        * [Redux-Thunk](#redux-thunk)
-        * [styled-components](#styled-components)
-        * [dogs-ödev](#dogs-ödev)
-        * [todo-ödev](#todo-ödev)
-        * [formik](#formik)
-            * [before](#before)
-            * [after](#after)
-        * [codesandbox](#codesandbox)
-* [6.Hafta_9-10 Mayıs 2020](#6hafta_9-10-mays-2020)
-    * [1](#1)
-    * [2](#2)
-* [7.Hafta_16-17 Mayıs 2020](#7hafta_16-17-mays-2020)
+-   [1.Hafta_4-5 Nisan 2020](#1hafta_4-5-nisan-2020)
+    -   [4 Nisan 2020](#4-nisan-2020)
+    -   [5 Nisan 2020](#5-nisan-2020)
+-   [2.Hafta_11-12 Nisan 2020](#2hafta_11-12-nisan-2020)
+-   [3.Hafta_18-19 Nisan 2020](#3hafta_18-19-nisan-2020)
+-   [4.Hafta_25-26 Nisan 2020](#4hafta_25-26-nisan-2020)
+    -   [25 Nisan 2020](#25-nisan-2020)
+    -   [26 Nisan 2020](#26-nisan-2020)
+-   [5.Hafta_2-3 Mayıs 2020](#5hafta_2-3-mays-2020)
+    -   [Erhan attigi videolar](#erhan-attigi-videolar)
+        -   [Redux-Thunk](#redux-thunk)
+        -   [styled-components](#styled-components)
+        -   [dogs-ödev](#dogs-ödev)
+        -   [todo-ödev](#todo-ödev)
+        -   [formik](#formik)
+            -   [before](#before)
+            -   [after](#after)
+        -   [codesandbox](#codesandbox)
+-   [6.Hafta_9-10 Mayıs 2020](#6hafta_9-10-mays-2020)
+    -   [1](#1)
+    -   [2](#2)
+-   [7.Hafta_16-17 Mayıs 2020](#7hafta_16-17-mays-2020)
 
 <!-- vim-markdown-toc -->
 
@@ -148,8 +148,9 @@ Acilmadi.
 
 1
 
--   addtodo ya yeni ozellikler ekliyoruz. (title, desc , completed, priorty gibi)
--   style kismi yapildi.
+-   addtodo component inin state ini degistiyoruyor (title, desc , completed, priorty gibi)
+-   style font, gorunum duzeltiliyor.
+-   Attribute selector @8:20
 
 2 & 3
 
@@ -200,29 +201,29 @@ Acilmadi.
 
 9.mp4
 
-- Addbook sayfasi 
+-   Addbook sayfasi
 
-10.mp4
+    10.mp4
 
-11.mp4
+    11.mp4
 
-12.mp4
+    12.mp4
 
-13.mp4
+    13.mp4
 
-14.mp4
+    14.mp4
 
-15.mp4
+    15.mp4
 
-16.mp4
+    16.mp4
 
-17.mp4
+    17.mp4
 
-18.mp4
+    18.mp4
 
-19.mp4
+    19.mp4
 
-20.mp4
+    20.mp4
 
 ## 2
 
