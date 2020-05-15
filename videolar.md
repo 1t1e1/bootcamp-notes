@@ -151,9 +151,11 @@ Acilmadi.
 -   addtodo component inin state ini degistiyoruyor (title, desc , completed, priorty gibi)
 -   style font, gorunum duzeltiliyor.
 -   Attribute selector @8:20
+-   form input elementler yaziliyor
 
 2 & 3
 
+-   submit deki degisiklikler
 -   Debugger kullandik, @2 6:22
 
 #### after
@@ -161,12 +163,19 @@ Acilmadi.
 1
 
 -   neden formik
--   kutuphaneyi ekleme
+-   kutuphaneye gore degisiklikler
 
 2
+
+-   inputlara (radio, select vs) adapte etme
+
 3
 
-4
+-   Custom value, setFieldValue("name", sendingValue)
+-   setSubmiting
+-   Validation
+
+4,5
 
 -   yup validation
 -   (bundan sonra high order component var)
