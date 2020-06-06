@@ -24,6 +24,7 @@ Kodluyoruz Bootcamp in Video Icerigi
     -   [1](#1)
     -   [2](#2)
 -   [7.Hafta_16-17 Mayıs 2020](#7hafta_16-17-mays-2020)
+-   [7.Hafta_16-17 Mayıs 2020](#7hafta_16-17-mays-2020-1)
 
 <!-- vim-markdown-toc -->
 
@@ -47,11 +48,20 @@ Kodluyoruz Bootcamp in Video Icerigi
 
 '1x1_İstanbul - React Bootcamp (2020-04-25 at 02_14 GMT-7).mp4'
 
+-   Yazi-tura, burger odevi ve review
+
 '1x2_İstanbul - React Bootcamp (2020-04-25 at 03_15 GMT-7).mp4'
 
--   Dogs app router
+-   Dogs app (router giris)
+-   --save-dev ile --save arasindaki fark
+-   bootstrap 17:00
+-   Router, Switch eklendi.
 
 '1x3_İstanbul - React Bootcamp (2020-04-25 at 04_23 GMT-7).mp4'
+
+-   header, navbar, routes duzenlendi.
+-   /tur/:yazilanTur olarak genellestirildi.
+-   react.StrictMode @56:00
 
 '1x4_İstanbul - React Bootcamp (2020-04-25 at 05_54 GMT-7).mp4'
 
@@ -273,5 +283,7 @@ dog2.mp4
 dogtype.mp4
 
 formik.mp4
+
+# 7.Hafta_16-17 Mayıs 2020
 
 # 7.Hafta_16-17 Mayıs 2020
